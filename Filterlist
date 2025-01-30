@@ -30,7 +30,6 @@ https://sigs.interserver.net/iprbl.txt
 https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/1.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
-https://www.talosintelligence.com/documents/ip-blacklist
 https://voipbl.org/update
 https://cinsscore.com/list/ci-badguys.txt
 https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/Curated-Lists/OFACSanctioned.txt
@@ -65,6 +64,7 @@ https://raw.githubusercontent.com/ehindiayleau/BlockNSA/refs/heads/main/BlockNSA
 https://raw.githubusercontent.com/ehindiayleau/BlacklistMIL-pfBlockerNG/refs/heads/master/blacklistmil_rootservers.txt
 https://raw.githubusercontent.com/ehindiayleau/BlacklistMIL-pfBlockerNG/refs/heads/master/blacklistmil_pfblockerng.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/snort_ipfilter.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bambenek_c2.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bambenek_hesperbot.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bambenek_dircrypt.ipset
 https://www.binarydefense.com/banlist.txt
@@ -72,6 +72,10 @@ https://blacklist.3coresec.net/lists/all.txt
 https://raw.githubusercontent.com/bitwire-it/ipsum-clean/main/ipsum.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestips.txt
 https://api.blocklist.de/getlast.php?time=3600
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/refs/heads/master/ips/ips0.list
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_webclient.netset
+https://raw.githubusercontent.com/tg12/bad_packets_blocklist/master/bad_packets_list.txt
+https://lists.blocklist.de/lists/apache.txt
 https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/main/TXT/IPV4/AF.txt
 https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/main/TXT/IPV4/AL.txt
 https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/main/TXT/IPV4/DZ.txt
